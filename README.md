@@ -8,8 +8,6 @@
   
   <img src="https://streak-stats.demolab.com?user=hemzadev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   
-  <!-- Alternative 2: Different query parameters -->
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=hemzadev&hide=html,css&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
